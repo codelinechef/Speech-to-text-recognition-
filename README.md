@@ -2,7 +2,7 @@
 
 Related coursework - Applied Machine Learning(AML)
 
-Technologies used: OpenCv, tensorflow, python
+Technologies used: OpenCv, tensorflow, python, Deep Learning Algorithms
 
 Other Essentials used: Gdown (Data acquisition and pre processing)
 
